@@ -42,8 +42,8 @@ Para ejecutar el notebook y replicar los resultados, sigue los siguientes pasos:
 
 1.  Clona este repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git](https://github.com/dicodinap/entregas-ia-25/tree/main
-    cd tu_repositorio
+    git clone https://github.com/dicodinap/entregas-ia-25
+    cd repo
     ```
 2.  Crea un entorno virtual (opcional pero recomendado):
     ```bash
