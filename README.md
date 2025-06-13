@@ -1,6 +1,4 @@
-It looks like you're asking for a README for a GitHub repository based on the provided Jupyter Notebook. I'll create a comprehensive README that includes an overview, instructions, and key findings.
 
-***
 
 # Evaluación 3: Clasificación de Clientes
 
